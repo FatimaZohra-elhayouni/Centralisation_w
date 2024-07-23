@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|c:\\users\\pc\\downloads\\centralisation_env_dev(1)\\centralisation_env_dev\\migrations\\202406261341009_addcolumnbooleanisreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:migrations\\202406261341009_addcolumnbooleanisreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\views\\donnee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:views\\donnee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\Migrations\\Migrations\\202406241526335_AddPasswordResetCodeToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\scriptconnexion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\scriptconnexion.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\Downloads\\models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\app_start\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:app_start\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\scriptparametreuser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\scriptparametreuser.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\scriptprojet.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\scriptprojet.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\scriptparam\u00E8tres.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\scriptparam\u00E8tres.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\scriptindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\scriptindex.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\logout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\logout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\forgotpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\forgotpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\scripts\\edituserparameter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\scripts\\edituserparameter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\content\\styles\\styleconnexion.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D362AA3-A279-4749-B80E-EA6A20A52235}|CentralisationV0.csproj|solutionrelative:content\\styles\\styleconnexion.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202406261341009_AddColumnBooleanIsReset.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Migrations\\202406261341009_AddColumnBooleanIsReset.cs",
+              "RelativeDocumentMoniker": "Migrations\\202406261341009_AddColumnBooleanIsReset.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Migrations\\202406261341009_AddColumnBooleanIsReset.cs",
+              "RelativeToolTip": "Migrations\\202406261341009_AddColumnBooleanIsReset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:24:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Services\\DataService.cs",
+              "RelativeToolTip": "Services\\DataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:54:14.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T09:54:01.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T09:53:54.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web.Release.config",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Web.Release.config",
+              "RelativeToolTip": "Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-22T09:53:51.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-22T09:53:45.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-22T09:53:34.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202406241526335_AddPasswordResetCodeToApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Migrations\\Migrations\\202406241526335_AddPasswordResetCodeToApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\..\\Migrations\\Migrations\\202406241526335_AddPasswordResetCodeToApplicationUser.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Migrations\\Migrations\\202406241526335_AddPasswordResetCodeToApplicationUser.cs",
+              "RelativeToolTip": "..\\..\\Migrations\\Migrations\\202406241526335_AddPasswordResetCodeToApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:41:45.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\donnee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\donnee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\donnee\\Index.cshtml",
+              "RelativeToolTip": "Views\\donnee\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAApwEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T07:36:32.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwNsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T14:24:49.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T07:53:46.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAAwGUBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:17:55.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "scriptConnexion.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptConnexion.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\scriptConnexion.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptConnexion.js",
+              "RelativeToolTip": "Content\\Scripts\\scriptConnexion.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T12:52:48.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\..\\models\\Role.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\models\\Role.cs",
+              "RelativeToolTip": "..\\..\\models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T14:15:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\App_Start\\Startup.cs",
+              "RelativeDocumentMoniker": "App_Start\\Startup.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\App_Start\\Startup.cs",
+              "RelativeToolTip": "App_Start\\Startup.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAG8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:50:55.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:57:09.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "scriptParametreUser.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptParametreUser.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\scriptParametreUser.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptParametreUser.js",
+              "RelativeToolTip": "Content\\Scripts\\scriptParametreUser.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:55.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "scriptProjet.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptProjet.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\scriptProjet.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptProjet.js",
+              "RelativeToolTip": "Content\\Scripts\\scriptProjet.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:54.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "scriptParam\u00E8tres.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptParam\u00E8tres.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\scriptParam\u00E8tres.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptParam\u00E8tres.js",
+              "RelativeToolTip": "Content\\Scripts\\scriptParam\u00E8tres.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:49.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "scriptIndex.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptIndex.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\scriptIndex.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\scriptIndex.js",
+              "RelativeToolTip": "Content\\Scripts\\scriptIndex.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:33.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\script.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\script.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\script.js",
+              "RelativeToolTip": "Content\\Scripts\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:29.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "logOut.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\logOut.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\logOut.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\logOut.js",
+              "RelativeToolTip": "Content\\Scripts\\logOut.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:28.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgotPassword.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\ForgotPassword.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\ForgotPassword.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\ForgotPassword.js",
+              "RelativeToolTip": "Content\\Scripts\\ForgotPassword.js",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:18.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EditUserParameter.js",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\EditUserParameter.js",
+              "RelativeDocumentMoniker": "Content\\Scripts\\EditUserParameter.js",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\Scripts\\EditUserParameter.js",
+              "RelativeToolTip": "Content\\Scripts\\EditUserParameter.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-18T14:26:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "styleConnexion.css",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\styles\\styleConnexion.css",
+              "RelativeDocumentMoniker": "Content\\styles\\styleConnexion.css",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\Centralisation_Env_Dev(1)\\Centralisation_Env_Dev\\Content\\styles\\styleConnexion.css",
+              "RelativeToolTip": "Content\\styles\\styleConnexion.css",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-18T09:13:50.292Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

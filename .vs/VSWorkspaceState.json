@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Content",
+    "\\Content\\Scripts",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\Entities",
+    "\\Views",
+    "\\Views\\Account",
+    "\\Views\\Home",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Models\\Entities\\ApplicationUser .cs",
+  "PreviewInSolutionExplorer": false
+}
